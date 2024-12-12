@@ -1,6 +1,3 @@
-# Create Voucher Project
+# Voucher Creation For Travel Agency
 
-- In this project I made web app which takes input from user (form).
-- And then based on the input it will create pre-templated voucher for user.
-- It has editable functinality in them, like they can edit it how they want.
-- Then there will be downloaded button, in which I will give option to pdf, docs format.
+- So, As it's name sounds. it's basic prototype web based application that automats the process of creation their vouchers for customers.
