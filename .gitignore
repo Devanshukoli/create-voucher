@@ -1,1 +1,23 @@
+# Logs
+Log
 node_modules
+package-lock.json
+
+# Next.js Build Output
+.next
+out
+
+.vscode
+
+# vite Cache
+.vite/
+
+# OS
+*.DS_Store
+.DS_Store
+
+# dotenv environment variable files
+.env
+.env.local
+.env.test
+.env.production
